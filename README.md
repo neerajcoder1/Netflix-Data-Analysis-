@@ -2,7 +2,7 @@
 Netflix Data Analysis using Python &amp; Plotly
 # 📊 Netflix Data Analysis using Python & Plotly
 
-<img width="456" height="456" alt="image" src="https://github.com/user-attachments/assets/c63c96af-6bb8-4784-aab1-1d97422a8992" />
+<img width="456" height="400" alt="image" src="https://github.com/user-attachments/assets/c63c96af-6bb8-4784-aab1-1d97422a8992" />
 
 
 ## 📌 Project Overview
